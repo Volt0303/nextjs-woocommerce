@@ -7,6 +7,7 @@ interface Image {
   title: string;
 }
 
+
 export interface Product {
   cartKey: string;
   name: string;
